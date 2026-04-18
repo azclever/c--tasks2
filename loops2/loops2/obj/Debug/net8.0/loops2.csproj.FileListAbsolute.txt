@@ -1,0 +1,14 @@
+C:\Users\user\source\repos\loops2\loops2\bin\Debug\net8.0\loops2.exe
+C:\Users\user\source\repos\loops2\loops2\bin\Debug\net8.0\loops2.deps.json
+C:\Users\user\source\repos\loops2\loops2\bin\Debug\net8.0\loops2.runtimeconfig.json
+C:\Users\user\source\repos\loops2\loops2\bin\Debug\net8.0\loops2.dll
+C:\Users\user\source\repos\loops2\loops2\bin\Debug\net8.0\loops2.pdb
+C:\Users\user\source\repos\loops2\loops2\obj\Debug\net8.0\loops2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\loops2\loops2\obj\Debug\net8.0\loops2.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\loops2\loops2\obj\Debug\net8.0\loops2.AssemblyInfo.cs
+C:\Users\user\source\repos\loops2\loops2\obj\Debug\net8.0\loops2.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\loops2\loops2\obj\Debug\net8.0\loops2.dll
+C:\Users\user\source\repos\loops2\loops2\obj\Debug\net8.0\refint\loops2.dll
+C:\Users\user\source\repos\loops2\loops2\obj\Debug\net8.0\loops2.pdb
+C:\Users\user\source\repos\loops2\loops2\obj\Debug\net8.0\loops2.genruntimeconfig.cache
+C:\Users\user\source\repos\loops2\loops2\obj\Debug\net8.0\ref\loops2.dll
