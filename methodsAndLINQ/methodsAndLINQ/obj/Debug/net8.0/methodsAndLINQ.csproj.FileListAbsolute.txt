@@ -1,0 +1,14 @@
+C:\Users\user\source\repos\methodsAndLINQ\methodsAndLINQ\bin\Debug\net8.0\methodsAndLINQ.exe
+C:\Users\user\source\repos\methodsAndLINQ\methodsAndLINQ\bin\Debug\net8.0\methodsAndLINQ.deps.json
+C:\Users\user\source\repos\methodsAndLINQ\methodsAndLINQ\bin\Debug\net8.0\methodsAndLINQ.runtimeconfig.json
+C:\Users\user\source\repos\methodsAndLINQ\methodsAndLINQ\bin\Debug\net8.0\methodsAndLINQ.dll
+C:\Users\user\source\repos\methodsAndLINQ\methodsAndLINQ\bin\Debug\net8.0\methodsAndLINQ.pdb
+C:\Users\user\source\repos\methodsAndLINQ\methodsAndLINQ\obj\Debug\net8.0\methodsAndLINQ.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\methodsAndLINQ\methodsAndLINQ\obj\Debug\net8.0\methodsAndLINQ.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\methodsAndLINQ\methodsAndLINQ\obj\Debug\net8.0\methodsAndLINQ.AssemblyInfo.cs
+C:\Users\user\source\repos\methodsAndLINQ\methodsAndLINQ\obj\Debug\net8.0\methodsAndLINQ.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\methodsAndLINQ\methodsAndLINQ\obj\Debug\net8.0\methodsAndLINQ.dll
+C:\Users\user\source\repos\methodsAndLINQ\methodsAndLINQ\obj\Debug\net8.0\refint\methodsAndLINQ.dll
+C:\Users\user\source\repos\methodsAndLINQ\methodsAndLINQ\obj\Debug\net8.0\methodsAndLINQ.pdb
+C:\Users\user\source\repos\methodsAndLINQ\methodsAndLINQ\obj\Debug\net8.0\methodsAndLINQ.genruntimeconfig.cache
+C:\Users\user\source\repos\methodsAndLINQ\methodsAndLINQ\obj\Debug\net8.0\ref\methodsAndLINQ.dll
